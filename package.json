@@ -12,6 +12,11 @@
   },
   "author": "Emilio Morilla",
   "license": "ISC",
+  "dependencies": {
+    "node-static": "~0.7.1",
+    "socket.io": "~0.9.16",
+    "express": "~3.4.0"
+  },
   "bugs": {
     "url": "https://github.com/EmilioMN92/WebRTC-Example/issues"
   },
